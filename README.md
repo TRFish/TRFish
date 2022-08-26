@@ -4,5 +4,5 @@
 <p align="center"><b>Тут ничего нет. Уходи.</b></p>
 <p align="center">Если что пиши в телеграм.</p>
 <p align="center">
-	<a href="https:/www.t.me/TRFish">@TRFish</a>
+	<a href="https://t.me/trfish">@TRFish</a>
 </p>
